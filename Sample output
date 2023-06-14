@@ -1,0 +1,128 @@
+serials and other sensitive data obscured by ********
+
+Hello Node.js World
+Serial number is: 12********64
+Software version is: D7.6.114
+time difference: 31
+We support this software version
+We got a success on getting the session_id which is: d4fb91bfa9857f********4a570ccee0
+We got an AuthToken from Enphase
+[New] Measurement type: "inverters" ActiveCount: 13 ReadingTime: 1686746194 Watt(now): 3853 Watt(Lifetime): 842514
+[New] Measurement type: "production" ActiveCount: 1 ReadingTime: 1686746217 Watt(now): 3866.778 Watt(Lifetime): 830687.187
+[New] Measurement type: "total-consumption" ActiveCount: 1 ReadingTime: 1686746217 Watt(now): 1285.366 Watt(Lifetime): 305996.184
+[New] Measurement type: "net-consumption" ActiveCount: 1 ReadingTime: 1686746217 Watt(now): -2581.412 Watt(Lifetime): -524014.526
+[New] Measurement type: "acb" ActiveCount: 0 ReadingTime: 0 Watt(now): 0 Watt(Lifetime): 0
+No new data expected from Production for another: 29 seconds
+[New] Inverter: "4*********29" LastReportDate: 1686746074 Watts: 310
+[New] Inverter: "4*********17" LastReportDate: 1686746044 Watts: 307
+[New] Inverter: "4*********25" LastReportDate: 1686746074 Watts: 305
+[New] Inverter: "4*********15" LastReportDate: 1686746075 Watts: 307
+[New] Inverter: "4*********67" LastReportDate: 1686746044 Watts: 308
+[New] Inverter: "4*********31" LastReportDate: 1686746045 Watts: 306
+[New] Inverter: "4*********16" LastReportDate: 1686746046 Watts: 304
+[New] Inverter: "4*********36" LastReportDate: 1686746076 Watts: 309
+[New] Inverter: "4*********09" LastReportDate: 1686746013 Watts: 302
+[New] Inverter: "4*********14" LastReportDate: 1686746077 Watts: 310
+[New] Inverter: "4*********62" LastReportDate: 1686746047 Watts: 303
+[New] Inverter: "4*********32" LastReportDate: 1686746104 Watts: 175
+[New] Inverter: "4*********96" LastReportDate: 1686746078 Watts: 308
+Measurement type: "inverters" ActiveCount: 13 ReadingTime: 1686746225 Watt(now): 3853 Watt(Lifetime): 842514
+Measurement type: "production" ActiveCount: 1 ReadingTime: 1686746247 Watt(now): 3877.203 Watt(Lifetime): 830720.821
+Measurement type: "total-consumption" ActiveCount: 1 ReadingTime: 1686746247 Watt(now): 1281.869 Watt(Lifetime): 306007.42
+Measurement type: "net-consumption" ActiveCount: 1 ReadingTime: 1686746247 Watt(now): -2595.334 Watt(Lifetime): -524036.925
+No new data expected from Production for another: 30 seconds
+Measurement type: "inverters" ActiveCount: 13 ReadingTime: 1686746254 Watt(now): 3853 Watt(Lifetime): 842514
+Measurement type: "production" ActiveCount: 1 ReadingTime: 1686746278 Watt(now): 3877.967 Watt(Lifetime): 830753.227
+Measurement type: "total-consumption" ActiveCount: 1 ReadingTime: 1686746278 Watt(now): 1293.762 Watt(Lifetime): 306018.249
+Measurement type: "net-consumption" ActiveCount: 1 ReadingTime: 1686746278 Watt(now): -2584.205 Watt(Lifetime): -524058.501
+No new data expected from Production for another: 30 seconds
+Measurement type: "inverters" ActiveCount: 13 ReadingTime: 1686746285 Watt(now): 3853 Watt(Lifetime): 842514
+Measurement type: "production" ActiveCount: 1 ReadingTime: 1686746309 Watt(now): 3882.008 Watt(Lifetime): 830786.746
+Measurement type: "total-consumption" ActiveCount: 1 ReadingTime: 1686746309 Watt(now): 1303.262 Watt(Lifetime): 306029.434
+Measurement type: "net-consumption" ActiveCount: 1 ReadingTime: 1686746309 Watt(now): -2578.746 Watt(Lifetime): -524080.836
+No new data expected from Production for another: 29 seconds
+Measurement type: "inverters" ActiveCount: 13 ReadingTime: 1686746315 Watt(now): 3853 Watt(Lifetime): 842514
+Measurement type: "production" ActiveCount: 1 ReadingTime: 1686746339 Watt(now): 3885.488 Watt(Lifetime): 830820.176
+Measurement type: "total-consumption" ActiveCount: 1 ReadingTime: 1686746339 Watt(now): 1298.894 Watt(Lifetime): 306040.568
+Measurement type: "net-consumption" ActiveCount: 1 ReadingTime: 1686746339 Watt(now): -2586.594 Watt(Lifetime): -524103.131
+No new data expected from Production for another: 30 seconds
+Inverter: "4*********09" LastReportDate: 1686746344 Watts: 304
+Measurement type: "inverters" ActiveCount: 13 ReadingTime: 1686746346 Watt(now): 3855 Watt(Lifetime): 842542
+Measurement type: "production" ActiveCount: 1 ReadingTime: 1686746371 Watt(now): 3887.689 Watt(Lifetime): 830852.925
+Measurement type: "total-consumption" ActiveCount: 1 ReadingTime: 1686746371 Watt(now): 1287.462 Watt(Lifetime): 306051.481
+Measurement type: "net-consumption" ActiveCount: 1 ReadingTime: 1686746371 Watt(now): -2600.227 Watt(Lifetime): -524124.967
+No new data expected from Production for another: 29 seconds
+Inverter: "4*********17" LastReportDate: 1686746375 Watts: 311
+Inverter: "4*********67" LastReportDate: 1686746376 Watts: 309
+Inverter: "4*********31" LastReportDate: 1686746376 Watts: 309
+Inverter: "4*********16" LastReportDate: 1686746377 Watts: 307
+Inverter: "4*********62" LastReportDate: 1686746378 Watts: 305
+Measurement type: "inverters" ActiveCount: 13 ReadingTime: 1686746379 Watt(now): 3867 Watt(Lifetime): 842683
+Measurement type: "production" ActiveCount: 1 ReadingTime: 1686746402 Watt(now): 3882.915 Watt(Lifetime): 830887.703
+Measurement type: "total-consumption" ActiveCount: 1 ReadingTime: 1686746402 Watt(now): 1308.874 Watt(Lifetime): 306063.102
+Measurement type: "net-consumption" ActiveCount: 1 ReadingTime: 1686746402 Watt(now): -2574.041 Watt(Lifetime): -524148.124
+No new data expected from Production for another: 29 seconds
+Inverter: "4*********29" LastReportDate: 1686746404 Watts: 314
+Inverter: "4*********25" LastReportDate: 1686746407 Watts: 307
+Inverter: "4*********15" LastReportDate: 1686746408 Watts: 309
+Inverter: "4*********36" LastReportDate: 1686746409 Watts: 310
+Inverter: "4*********14" LastReportDate: 1686746410 Watts: 311
+Inverter: "4*********96" LastReportDate: 1686746411 Watts: 310
+Measurement type: "inverters" ActiveCount: 13 ReadingTime: 1686746413 Watt(now): 3879 Watt(Lifetime): 842855
+Measurement type: "production" ActiveCount: 1 ReadingTime: 1686746434 Watt(now): 3882.387 Watt(Lifetime): 830921.196
+Measurement type: "total-consumption" ActiveCount: 1 ReadingTime: 1686746434 Watt(now): 1288.768 Watt(Lifetime): 306074.265
+Measurement type: "net-consumption" ActiveCount: 1 ReadingTime: 1686746434 Watt(now): -2593.618 Watt(Lifetime): -524170.454
+No new data expected from Production for another: 29 seconds
+Inverter: "4*********32" LastReportDate: 1686746434 Watts: 169
+Measurement type: "inverters" ActiveCount: 13 ReadingTime: 1686746464 Watt(now): 3874 Watt(Lifetime): 842871
+Measurement type: "production" ActiveCount: 1 ReadingTime: 1686746465 Watt(now): 3891.633 Watt(Lifetime): 830954.744
+Measurement type: "total-consumption" ActiveCount: 1 ReadingTime: 1686746465 Watt(now): 1304.824 Watt(Lifetime): 306085.449
+Measurement type: "net-consumption" ActiveCount: 1 ReadingTime: 1686746465 Watt(now): -2586.809 Watt(Lifetime): -524192.818
+No new data expected from Production for another: 29 seconds
+Measurement type: "inverters" ActiveCount: 13 ReadingTime: 1686746495 Watt(now): 3874 Watt(Lifetime): 842871
+Measurement type: "production" ActiveCount: 1 ReadingTime: 1686746495 Watt(now): 3891.274 Watt(Lifetime): 830987.349
+Measurement type: "total-consumption" ActiveCount: 1 ReadingTime: 1686746495 Watt(now): 1338.156 Watt(Lifetime): 306096.617
+Measurement type: "net-consumption" ActiveCount: 1 ReadingTime: 1686746495 Watt(now): -2553.118 Watt(Lifetime): -524214.255
+No new data expected from Production for another: 30 seconds
+Measurement type: "inverters" ActiveCount: 13 ReadingTime: 1686746525 Watt(now): 3874 Watt(Lifetime): 842871
+Measurement type: "production" ActiveCount: 1 ReadingTime: 1686746526 Watt(now): 3888.959 Watt(Lifetime): 831020.815
+Measurement type: "total-consumption" ActiveCount: 1 ReadingTime: 1686746526 Watt(now): 1329.314 Watt(Lifetime): 306108.06
+Measurement type: "net-consumption" ActiveCount: 1 ReadingTime: 1686746526 Watt(now): -2559.645 Watt(Lifetime): -524236.279
+No new data expected from Production for another: 29 seconds
+Measurement type: "inverters" ActiveCount: 13 ReadingTime: 1686746554 Watt(now): 3874 Watt(Lifetime): 842871
+Measurement type: "production" ActiveCount: 1 ReadingTime: 1686746556 Watt(now): 3886.728 Watt(Lifetime): 831053.54
+Measurement type: "total-consumption" ActiveCount: 1 ReadingTime: 1686746556 Watt(now): 1338.407 Watt(Lifetime): 306119.237
+Measurement type: "net-consumption" ActiveCount: 1 ReadingTime: 1686746556 Watt(now): -2548.321 Watt(Lifetime): -524257.826
+No new data expected from Production for another: 30 seconds
+Measurement type: "inverters" ActiveCount: 13 ReadingTime: 1686746585 Watt(now): 3874 Watt(Lifetime): 842871
+Measurement type: "production" ActiveCount: 1 ReadingTime: 1686746587 Watt(now): 3897.249 Watt(Lifetime): 831086.702
+Measurement type: "total-consumption" ActiveCount: 1 ReadingTime: 1686746587 Watt(now): 1036.398 Watt(Lifetime): 306129.374
+Measurement type: "net-consumption" ActiveCount: 1 ReadingTime: 1686746587 Watt(now): -2860.851 Watt(Lifetime): -524280.851
+No new data expected from Production for another: 30 seconds
+Measurement type: "inverters" ActiveCount: 13 ReadingTime: 1686746615 Watt(now): 3874 Watt(Lifetime): 842871
+Measurement type: "production" ActiveCount: 1 ReadingTime: 1686746618 Watt(now): 3906.673 Watt(Lifetime): 831120.719
+Measurement type: "total-consumption" ActiveCount: 1 ReadingTime: 1686746618 Watt(now): 1044.059 Watt(Lifetime): 306138.433
+Measurement type: "net-consumption" ActiveCount: 1 ReadingTime: 1686746618 Watt(now): -2862.614 Watt(Lifetime): -524305.809
+No new data expected from Production for another: 29 seconds
+Measurement type: "inverters" ActiveCount: 13 ReadingTime: 1686746646 Watt(now): 3874 Watt(Lifetime): 842871
+Measurement type: "production" ActiveCount: 1 ReadingTime: 1686746649 Watt(now): 3904.847 Watt(Lifetime): 831154.093
+Measurement type: "total-consumption" ActiveCount: 1 ReadingTime: 1686746649 Watt(now): 1065.234 Watt(Lifetime): 306147.437
+Measurement type: "net-consumption" ActiveCount: 1 ReadingTime: 1686746649 Watt(now): -2839.613 Watt(Lifetime): -524330.179
+No new data expected from Production for another: 29 seconds
+Measurement type: "inverters" ActiveCount: 13 ReadingTime: 1686746677 Watt(now): 3878 Watt(Lifetime): 842899
+Measurement type: "production" ActiveCount: 1 ReadingTime: 1686746679 Watt(now): 3914.14 Watt(Lifetime): 831186.967
+Measurement type: "total-consumption" ActiveCount: 1 ReadingTime: 1686746679 Watt(now): 1047.07 Watt(Lifetime): 306156.279
+Measurement type: "net-consumption" ActiveCount: 1 ReadingTime: 1686746679 Watt(now): -2867.07 Watt(Lifetime): -524354.211
+No new data expected from Production for another: 30 seconds
+Inverter: "4*********09" LastReportDate: 1686746675 Watts: 308
+Measurement type: "inverters" ActiveCount: 13 ReadingTime: 1686746710 Watt(now): 3891 Watt(Lifetime): 842899
+Measurement type: "production" ActiveCount: 1 ReadingTime: 1686746711 Watt(now): 3918.331 Watt(Lifetime): 831220.235
+Measurement type: "total-consumption" ActiveCount: 1 ReadingTime: 1686746711 Watt(now): 1042.565 Watt(Lifetime): 306165.21
+Measurement type: "net-consumption" ActiveCount: 1 ReadingTime: 1686746711 Watt(now): -2875.766 Watt(Lifetime): -524378.549
+No new data expected from Production for another: 29 seconds
+Inverter: "4*********17" LastReportDate: 1686746704 Watts: 313
+Inverter: "4*********67" LastReportDate: 1686746705 Watts: 312
+Inverter: "4*********31" LastReportDate: 1686746706 Watts: 310
+Inverter: "4*********16" LastReportDate: 1686746707 Watts: 310
+Inverter: "4*********62" LastReportDate: 1686746709 Watts: 308
+^C
