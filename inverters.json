@@ -1,0 +1,93 @@
+[
+  {
+    serialNumber: '48********29',
+    lastReportDate: 1686317544,
+    devType: 1,
+    lastReportWatts: 313,
+    maxReportWatts: 330
+  },
+  {
+    serialNumber: '48********17',
+    lastReportDate: 1686317545,
+    devType: 1,
+    lastReportWatts: 314,
+    maxReportWatts: 330
+  },
+  {
+    serialNumber: '48********25',
+    lastReportDate: 1686317546,
+    devType: 1,
+    lastReportWatts: 313,
+    maxReportWatts: 330
+  },
+  {
+    serialNumber: '48********15',
+    lastReportDate: 1686317548,
+    devType: 1,
+    lastReportWatts: 313,
+    maxReportWatts: 330
+  },
+  {
+    serialNumber: '48********67',
+    lastReportDate: 1686317574,
+    devType: 1,
+    lastReportWatts: 314,
+    maxReportWatts: 330
+  },
+  {
+    serialNumber: '48********31',
+    lastReportDate: 1686317604,
+    devType: 1,
+    lastReportWatts: 296,
+    maxReportWatts: 330
+  },
+  {
+    serialNumber: '48********16',
+    lastReportDate: 1686317575,
+    devType: 1,
+    lastReportWatts: 312,
+    maxReportWatts: 330
+  },
+  {
+    serialNumber: '48********36',
+    lastReportDate: 1686317576,
+    devType: 1,
+    lastReportWatts: 314,
+    maxReportWatts: 330
+  },
+  {
+    serialNumber: '48********09',
+    lastReportDate: 1686317549,
+    devType: 1,
+    lastReportWatts: 313,
+    maxReportWatts: 330
+  },
+  {
+    serialNumber: '48********14',
+    lastReportDate: 1686317577,
+    devType: 1,
+    lastReportWatts: 312,
+    maxReportWatts: 330
+  },
+  {
+    serialNumber: '48********62',
+    lastReportDate: 1686317578,
+    devType: 1,
+    lastReportWatts: 314,
+    maxReportWatts: 330
+  },
+  {
+    serialNumber: '48********32',
+    lastReportDate: 1686317579,
+    devType: 1,
+    lastReportWatts: 115,
+    maxReportWatts: 330
+  },
+  {
+    serialNumber: '48********96',
+    lastReportDate: 1686317580,
+    devType: 1,
+    lastReportWatts: 312,
+    maxReportWatts: 330
+  }
+]
